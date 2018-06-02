@@ -1,6 +1,4 @@
 //Rohan Chaturvedi
-//Umair Haneef
-//UOWD CSCI 323 Artificial Intelligence
 //Maze Solver using Genetic Algorithm
 //"Headher.h"
 
